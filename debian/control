@@ -1,0 +1,13 @@
+Source: vx-dga-l-visor-imagenes-predeterminado
+Section: utils
+Priority: extra
+Maintainer: Arturo Martín <amartinromero@gmail.com>
+Build-Depends: debhelper (>= 9.0.0)
+Standards-Version: 3.9.3
+Homepage: http://wiki.vitalinux.educa.aragon.es
+
+Package: vx-dga-l-visor-imagenes-predeterminado
+Architecture: all
+Depends: ${misc:Depends}, shotwell
+Description: Cambia el visor predeterminado de Lubuntu para poder imprimir las imágenes
+ Cambia el visor predeterminado de Lubuntu para poder dar la opción de imprimir las imágenes
